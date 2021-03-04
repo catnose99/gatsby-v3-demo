@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Hello Gatsby v3.0`,
+    title: `Hello Gatsby 3.0`,
     author: {
       name: `catnose`,
       summary: `This site is built with Gatsby v3.0`,
