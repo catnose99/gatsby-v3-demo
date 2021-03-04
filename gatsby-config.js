@@ -5,7 +5,7 @@ module.exports = {
       name: `catnose`,
       summary: `This site is built with Gatsby v3.0`,
     },
-    description: `Build with Gatsby v3.0. Hosted on Cloudflare Pages.`,
+    description: `Build with Gatsby v3.0. Experimentally hosted on multiple services Cloudflare Pages / Vercel / Nelify.`,
     siteUrl: `https://catnose99.com`,
     social: {
       twitter: `catnose99`,
